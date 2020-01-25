@@ -1,0 +1,17 @@
+aiohttp==3.6.2
+brotli==1.0.7
+cryptography==2.8
+Cython==0.29.14
+fastai==1.0.60
+ipaddr==2.2.0
+matplotlib==3.1.2
+mock==3.0.5
+numpy==1.18.1
+ordereddict==1.1
+Pillow==7.0.0
+protobuf==3.11.2
+pyOpenSSL==19.1.0
+simplejson==3.17.0
+starlette==0.13.0
+uvicorn==0.11.2
+wincertstore==0.2
