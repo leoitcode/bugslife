@@ -17,7 +17,9 @@ This model pretends to recognize species, families and orders of the insect worl
 
 1- Get Dataset (Concluded)
 
-2- Image Segmentation (In progress)
+2- Construct Notebook requirements
+
+3- Image Segmentation (In progress)
 
 Applying techniques like Mask R-CNN and Active contour model, I'm researching how the best way to achieve good instance and semantic segmentations.
 
@@ -33,4 +35,3 @@ Applying techniques like Mask R-CNN and Active contour model, I'm researching ho
 3- Hyper-parameter Tuning  
 4- Evaluate with Real tests  
 5- Deploy and continuous sustaining of service
-
