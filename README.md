@@ -15,14 +15,14 @@ This model recognizes and automatically identify if an insect exists or not in a
 
 This model pretends to recognize species, families and orders of the insect world.
 
-1- Get Dataset (Concluded)
---
+#### 1- Get Dataset (Concluded)
+
 Dataset from adults insects and catterpillar from butterflies; specific angle of view and distance; insects without persons, laboratories and homes in the photo; photos in the forests on a daylight.
 
 Total: 6000 Images
 
 
-2- Construct Notebook requirements (Concluded)
+#### 2- Construct Notebook requirements (Concluded)
 --
 8 classes of Convolutional Neural Network is:
 
@@ -32,24 +32,24 @@ Bee, Ant, Cockroach, Dragonfly, Butterfly, Fly, Bettle, Others
 Total Augmented Images: 25600 Images
 
 
-3- Annotation (IBM Cloud) (Concluded)
+#### 3- Annotation (IBM Cloud) (Concluded)
 --
 Make some annotations in IBM Cloud using about 100 images could help me to automate the process in other thousands insects images. I've made a Machine Learning model to learn initial annotations and predict new ones.
 
 
-4- Data Augmentation (Concluded)
+#### 4- Data Augmentation (Concluded)
 --
 Using methods like Cutoff and Mixup directly on training dataset, to insert a dropout in initial layer of the Neural Network A[0].
 Also other techniques: (Rotate, Brightness, RandomCrop, Jitter)
 
 
-5 - Neural Network (In Progress)
+#### 5 - Neural Network (In Progress)
 --
 Constructing a NN with correct BatchSize(32,64) hidden layers(ConvLayers), activations (ReLU), droupouts and normalizations (imagenet_stats) to achieve the best result.
 I'd rather use 2 kinds of Frameworks to construct the NN (Keras, Fastai) to ensure the goal of model.
 
 
-PLUS - Image Segmentation
+#### PLUS - Image Segmentation
 --
 I made a research to visualize better ways to achieve the best accuracy in the model.
 Applying techniques like Mask R-CNN and Active contour model, I'm researching how to use instance and semantic segmentations in specific classes of insects.
