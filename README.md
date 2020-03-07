@@ -17,7 +17,7 @@ This model pretends to recognize species, families and orders of the insect worl
 
 #### 1- Get Dataset (Concluded)
 
-Dataset from adults insects and catterpillar from butterflies; specific angle of view and distance; insects without persons, laboratories and homes in the photo; photos in the forests on a daylight.
+Dataset from adults insects and caterpillar from butterflies; specific angle of view and distance; insects without persons, laboratories and homes in the photo; photos in the forests on a daylight.
 
 Total: 6000 Images
 
