@@ -61,7 +61,7 @@ Applying techniques like Mask R-CNN and Active contour model, I'm researching ho
 
 ## ToDo
 
-1- Train the Deep Learning Model  (First Version)
+1- Train the Deep Learning Model  (First Version)  
 2- Hyper-parameter Tuning  
-3- Evaluate with Real tests
+3- Evaluate with Real tests  
 4- Deploy
